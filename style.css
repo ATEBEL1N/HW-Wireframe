@@ -45,6 +45,7 @@ section {
     width: 495px;
     height: 300px;
     float: left;
+    margin-bottom: 20px;
 
 }
 
@@ -53,6 +54,7 @@ aside {
     width: 445px;
     height: 300px;
     margin-left:20px;
+    margin-bottom: 20px;
 
     
 }
